@@ -1,0 +1,41 @@
+h1 {
+    font-size: 40px;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 15px;
+    background-color: black;
+    color: white;
+}
+
+#name {
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#div1 {
+    width: 700px;
+    display: inline-block;
+}
+img {
+    display: inline;
+}
+
+p {
+    display: inline;
+    vertical-align: top;
+}
+
+#div2 {
+    width: 300px;
+    margin-top: 15px;
+    display: inline-block;
+    vertical-align: top;
+}
+#contact {
+    font-size: 20px;
+    display: inline;
+    vertical-align: top;
+
+}
+
