@@ -8,17 +8,19 @@ h1 {
 }
 
 #name {
-    font-size: 20px;
+    font-size: 30px;
     margin-top: 15px;
     margin-bottom: 15px;
 }
 
 #div1 {
-    width: 700px;
+    width: 800px;
     display: inline-block;
+    margin-left: 20px;
 }
 img {
-    display: inline;
+    float: left;
+    margin-right: 10px;
 }
 
 p {
@@ -33,7 +35,7 @@ p {
     vertical-align: top;
 }
 #contact {
-    font-size: 20px;
+    font-size: 30px;
     display: inline;
     vertical-align: top;
 
